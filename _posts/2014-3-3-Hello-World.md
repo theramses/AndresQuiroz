@@ -19,7 +19,7 @@ A link to [Facebook](https://www.facebook.com/t.theramses/). A big ass literal l
 
 An image, located within /images/descarga.jpg
 
-![an image alt text]({{ site.baseurl }}/images/jekyll-logo.png "an image title")
+![an image alt text]({{ site.baseurl }}/images/descarga.jpg "an image title")
 
 * A bulletted list
 - alternative syntax 1
